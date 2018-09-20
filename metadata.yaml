@@ -1,5 +1,8 @@
 _repo: On-the-Wallaby-Through-Victoria_52813
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52813-h/images/cover.jpg
 creator:
   author:
     agent_name: Mordaunt, Elinor
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '34943'
     url: http://www.gutenberg.org/2009/agents/34943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52813#On-the-Wallaby-Through-Victoria
 gutenberg_issued: '2016-08-15'
 gutenberg_type: Text
 identifiers:
